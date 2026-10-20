@@ -16,5 +16,5 @@ Enterprise IT & AI Automation Engineer in Taiwan, managing IT infrastructure, en
 ### 🌟 Featured Projects
 - [**💼 Enterprise LINE AI Sales Copilot**](https://github.com/Json105/Enterprise-LINE-AI-Sales-Copilot) — Serverless enterprise LINE AI sales assistant integrating voice notes to BANT reports, contract/spec doc reviews, sales email drafting, and automated Google Sheets CRM sync.
 - [**📊 Zammad Monthly Report & Slide Generator**](https://github.com/Json105/Zammad-Monthly-Report) — Automated ticket analytics, Excel reporting, and interactive presentations.
-- [**🤖 PAD Travel Expense PDF Splitter & Sender**](https://github.com/Json105/PAD-Travel-Expense-PDF-Splitter-Sender) — Enterprise RPA workflow for automated batch travel expense & reimbursement PDF splitting, employee ID directory matching, and Office 365 dispatch with auto-archiving.
+- [**🤖 PAD Travel Expense PDF Splitter & Sender**](https://github.com/Json105/PAD-Travel-Expense-PDF-Splitter-Sender) — Enterprise RPA workflow for automated batch travel expense & reimbursement PDF splitting, employee ID directory matching, and M365 Outlook dispatch with auto-archiving.
 - [**📈 FinMood — Stock Market Sentiment Analysis System**](https://github.com/Json105/Stock-Market-Sentiment-Analysis-System) — NLP-driven financial sentiment analysis, divergence detection, and decision-support dashboards.

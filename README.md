@@ -16,5 +16,5 @@
 ### 🌟 精選專案 (Featured Projects)
 - [**💼 Enterprise LINE AI Sales Copilot**](https://github.com/Json105/Enterprise-LINE-AI-Sales-Copilot) — 企業級無伺服器 LINE AI 業務助理，整合語音速記 (BANT 決策報告)、合約規格審閱、商務回信與 Google Sheets CRM 自動同步。
 - [**📊 Zammad Monthly Report & Slide Generator**](https://github.com/Json105/Zammad-Monthly-Report) — 自動化工單數據分析、Excel 報表生成與互動式簡報展示。
-- [**🤖 PAD Travel Expense PDF Splitter & Sender**](https://github.com/Json105/PAD-Travel-Expense-PDF-Splitter-Sender) — 企業級 RPA 流程，自動拆分批次員工出差報銷與代墊款 PDF，依工號比對通訊錄並透過 Office 365 進行個人化信件發送與自動歸檔。
+- [**🤖 PAD Travel Expense PDF Splitter & Sender**](https://github.com/Json105/PAD-Travel-Expense-PDF-Splitter-Sender) — 企業級 RPA 流程，自動拆分批次員工出差報銷與代墊款 PDF，依工號比對通訊錄並透過 M365 Outlook 進行個人化信件發送與自動歸檔。
 - [**📈 FinMood — 股市情緒分析系統 (Stock Market Sentiment Analysis System)**](https://github.com/Json105/Stock-Market-Sentiment-Analysis-System) — 基於 NLP 的金融情緒分析、背離偵測與投資決策支援儀表板。
